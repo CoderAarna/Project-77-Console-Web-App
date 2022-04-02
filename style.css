@@ -1,0 +1,14 @@
+html{
+    background-color: rgb(205, 240, 241);
+    text-align: center;
+}
+p{
+    color: peru;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: blueviolet;
+    font-family: fantasy;
+    text-decoration: underline;
+}
